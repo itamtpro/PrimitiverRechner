@@ -1,6 +1,6 @@
 # CMD-Rechner
 
-Einen PrimitvenRechner mit Java erstellen.
+Einen PrimitvenRechner mit Java & Eclipse erstellen.
 
 # Anleitung Java & Kompatibilität
 
