@@ -7,6 +7,7 @@ Einen PrimitvenRechner mit Java & Eclipse erstellen.
 Damit Sie mit dem Programmieren starten können, benötigen Sie das Programm Eclipse.
 
 Im folgenden Link finden Sie die neueste Version: http://www.eclipse.org/downloads/eclipse-packages/
+
 Wählen Sie "Eclipse IDE for Java EE Developers" aus, ob Sie 32-Bit oder 64-Bit verwenden möchten, ist Ihnen überlassen.
 
 Wenn Sie die Installation abgeschlossen haben, erstellen Sie ein neues JavaScript Projekt.
