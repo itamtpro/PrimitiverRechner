@@ -1,4 +1,4 @@
-# CMD-Rechner
+# PrimitiverRechner
 
 Einen PrimitvenRechner mit Java & Eclipse erstellen.
 
