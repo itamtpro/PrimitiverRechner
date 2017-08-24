@@ -24,4 +24,3 @@ Um das Projekt auszuführen, machen Sie einen Rechtsklick auf "PrimitiveRechnerk
 - Ein weiteres TextFeld, welches das Ergebnis ausgibt.
 - Eine ComboBox, in der man einen beliebigen Operator auswählen kann.
 - Zwei Buttons, welche zum "Ausrechnen" und zum "Löschen" dienen.
-
