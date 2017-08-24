@@ -2,6 +2,8 @@
 
 Einen PrimitvenRechner mit Java & Eclipse erstellen.
 
+Das "Primitiv" bezieht sich auf die mangelnden Funktionen des Rechners.
+
 # Anleitung Eclipse
 
 Damit Sie mit dem Programmieren starten können, benötigen Sie das Programm Eclipse.
